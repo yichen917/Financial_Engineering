@@ -1,0 +1,10 @@
+St=50
+r=0.1
+q=0
+sigma=0.4
+t=0
+T=0.25
+Smax_t=70
+n=100
+sim_num=10000
+rep_num=20
